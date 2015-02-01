@@ -2,6 +2,6 @@
 
 iOS App
 
-Hello Test
+Hello, World!
 
 Authors: Inha Joo, Vishnu Raveendran
